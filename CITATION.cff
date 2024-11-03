@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+authors:
+- family-names: Domínguez-Durán
+  given-names: Emilio
+  orcid: https://orcid.org/0000-0003-0088-5817
+title: "Stata package ``logitgraph''"
+version: 1.0
+date-released: 2024-03-11
+url: "https://github.com/emilienko/logitgraph"
